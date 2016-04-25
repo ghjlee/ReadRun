@@ -26,6 +26,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 #Using Foundation for frontend framework
 gem 'foundation-rails'
 
+#Puma
+gem 'puma'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
